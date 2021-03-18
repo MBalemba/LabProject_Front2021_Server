@@ -6,7 +6,7 @@
 
 * Установите **NodeJS** и **NPM**
 * Клонируйте данный репозиторий на своё устройство
-* В командной строке перейдите в папку `json-server` и запустите команду `npm install json-server --save-dev`
+* В командной строке перейдите в папку `LabProject_Front2021_Server` и запустите команду `npm install json-server --save-dev`
 * Запустите сервер командой `node server.js`
 
 ### Работа с сервером
